@@ -1,0 +1,2 @@
+Layout de produto fone de ouvido Phono Headphone.
+Site responsivo com HTML, CSS (grid, flex, media queries) e plug-in Simple Lightbox
